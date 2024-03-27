@@ -13,11 +13,11 @@ This project aims to visualize the frequency of character names from the popular
 **Usage:**
 1. Ensure you have Python installed on your system.
 2. Install the required dependencies using 'pip install plotly'.
-3. Run the `himym_character_frequency.py` script.
+3. Run the `himym_namevisual.py` script.
 4. View the generated HTML file to visualize the frequency distribution of character names.
 
 **File Structure:**
-- `himym_character_frequency.py`: Python script containing the code for generating the frequency visualization.
+- `himym_namevisual.py`: Python script containing the code for generating the frequency visualization.
 
 **Instructions:**
 1. Modify the `names` list in the Python script to include additional character names if desired.
